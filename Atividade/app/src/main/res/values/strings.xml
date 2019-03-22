@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Atividade</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="Completo">Completo</string>
+    <string name="email">Email</string>
+    <string name="CPF">CPF</string>
+    <string name="entrar">entrar</string>
+    <string name="concluir">Concluir</string>
+    <string name="avancar"><u>Avançar</u></string>
+    <string name="manterlogado"><u>Manter Logado</u></string>
+    <string name="recusuario"><u>Recuperar Usuario</u></string>
+</resources>
